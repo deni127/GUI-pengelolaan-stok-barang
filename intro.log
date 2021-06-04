@@ -1,0 +1,10 @@
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "tkinter\__init__.pyc", line 1883, in __call__
+  File "window.pyc", line 114, in <lambda>
+NameError: name 'quit' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "tkinter\__init__.pyc", line 1883, in __call__
+  File "window.pyc", line 114, in <lambda>
+NameError: name 'quit' is not defined

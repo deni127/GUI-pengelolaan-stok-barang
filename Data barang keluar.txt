@@ -1,0 +1,1 @@
+Senin 29 desember, Barang : softcase {aksesoris 01} /pcs, Stok awal : 10, Stok keluar : 1, Total Stok : 9, Harga perStok : Rp25000, Total Harga : Rp25000
